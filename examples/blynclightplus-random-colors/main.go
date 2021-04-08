@@ -5,10 +5,10 @@ import (
 	"log"
 	"time"
 
-	"github.com/samlitowitz/embrava-blynclight/pkg/blynclightplus/usb"
+	"github.com/samlitowitz/blynclight-control/pkg/blynclightplus/usb"
 
 	"github.com/google/gousb"
-	"github.com/samlitowitz/embrava-blynclight/pkg/blynclightplus"
+	"github.com/samlitowitz/blynclight-control/pkg/blynclightplus"
 )
 
 func main() {

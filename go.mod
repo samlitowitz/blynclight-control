@@ -1,4 +1,4 @@
-module github.com/samlitowitz/embrava-blynclight
+module github.com/samlitowitz/blynclight-control
 
 go 1.14
 
